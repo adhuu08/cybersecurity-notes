@@ -1,0 +1,26 @@
+# IP Addresses
+
+An IP address identifies a device on a network.
+
+Every device connected to the internet requires an IP address.
+
+Examples:
+- Computers
+- Phones
+- Routers
+- Servers
+
+IPv4 Example:
+192.168.1.1
+
+IPv6 Example:
+2001:db8::1
+
+Why it matters in cybersecurity:
+
+Attackers often target IP addresses to:
+- Scan networks
+- Discover devices
+- Launch attacks
+
+Network administrators use IP addresses to monitor and secure networks.
