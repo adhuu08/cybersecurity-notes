@@ -1,0 +1,25 @@
+# DNS
+
+DNS stands for Domain Name System.
+
+DNS converts domain names into IP addresses.
+
+Example:
+
+google.com
+
+becomes
+
+142.250.x.x
+
+Without DNS, users would need to remember IP addresses for every website.
+
+Cybersecurity Risks:
+- DNS spoofing
+- DNS hijacking
+- Malicious DNS servers
+
+Security Measures:
+- DNSSEC
+- Secure DNS providers
+- Monitoring DNS traffic
