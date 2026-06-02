@@ -1,0 +1,30 @@
+# CIA Triad
+
+The CIA Triad is a core cybersecurity model.
+
+## Confidentiality
+
+Ensures information is only accessible to authorized users.
+
+Examples:
+- Passwords
+- Encryption
+- Multi-factor authentication
+
+## Integrity
+
+Ensures data remains accurate and unmodified.
+
+Examples:
+- Checksums
+- Hashing
+- Digital signatures
+
+## Availability
+
+Ensures systems and services remain accessible when needed.
+
+Examples:
+- Backups
+- Redundant systems
+- Disaster recovery plans
